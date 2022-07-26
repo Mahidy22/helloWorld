@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/countApp/static/css/main.4a4330c5.css",
-    "main.js": "/countApp/static/js/main.cd13d934.js",
-    "index.html": "/countApp/index.html",
-    "main.4a4330c5.css.map": "/countApp/static/css/main.4a4330c5.css.map",
-    "main.cd13d934.js.map": "/countApp/static/js/main.cd13d934.js.map"
+    "main.css": "/Count-IsEvenOdd/static/css/main.4a4330c5.css",
+    "main.js": "/Count-IsEvenOdd/static/js/main.cd13d934.js",
+    "index.html": "/Count-IsEvenOdd/index.html",
+    "main.4a4330c5.css.map": "/Count-IsEvenOdd/static/css/main.4a4330c5.css.map",
+    "main.cd13d934.js.map": "/Count-IsEvenOdd/static/js/main.cd13d934.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4330c5.css",
