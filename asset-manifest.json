@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Count-IsEvenOdd/static/css/main.4a4330c5.css",
-    "main.js": "/Count-IsEvenOdd/static/js/main.cd13d934.js",
-    "index.html": "/Count-IsEvenOdd/index.html",
-    "main.4a4330c5.css.map": "/Count-IsEvenOdd/static/css/main.4a4330c5.css.map",
-    "main.cd13d934.js.map": "/Count-IsEvenOdd/static/js/main.cd13d934.js.map"
+    "main.css": "/isOddEven/static/css/main.0b5c3218.css",
+    "main.js": "/isOddEven/static/js/main.eb315764.js",
+    "index.html": "/isOddEven/index.html",
+    "main.0b5c3218.css.map": "/isOddEven/static/css/main.0b5c3218.css.map",
+    "main.eb315764.js.map": "/isOddEven/static/js/main.eb315764.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a4330c5.css",
-    "static/js/main.cd13d934.js"
+    "static/css/main.0b5c3218.css",
+    "static/js/main.eb315764.js"
   ]
 }
